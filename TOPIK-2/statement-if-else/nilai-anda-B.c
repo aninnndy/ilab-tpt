@@ -3,8 +3,7 @@
 int main()
 {
      // Deklarasi variabel nilai
-     int
-         nilai;
+     int nilai;
 
      // Inisialisasi variabel nilai
      nilai = 80;
