@@ -11,8 +11,7 @@ int main()
      ekspresi ketiga variabel alphabet increment
      */
 
-     for (alphabet = 'A'; alphabet < 'K';
-          alphabet++)
+     for (alphabet = 'A'; alphabet < 'K'; alphabet++)
 
           // Mencetak nilai variabel alphabet
           printf("%c ",
