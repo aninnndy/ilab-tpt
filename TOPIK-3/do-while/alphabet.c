@@ -14,8 +14,7 @@ int main()
      for (alphabet = 'A'; alphabet < 'K'; alphabet++)
 
           // Mencetak nilai variabel alphabet
-          printf("%c ",
-                 alphabet);
+          printf("%c ", alphabet);
 
      return 0;
 }
