@@ -6,8 +6,7 @@ int main()
 
      int a, b, c;
 
-     a = 15;
-     // Menugaskan a dengan nilai 15
+     a = 15;  // Menugaskan a dengan nilai 15
      b = 5;     // Menugaskan b dengan nilai 5
      c = a + b; // Hitung variabel c dengan a ditambah dengan b
 
