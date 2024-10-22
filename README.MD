@@ -8,7 +8,7 @@
     - #### **kali-tambah-kurang.c** <- Soal Kali Jumlah Kurang X Y Z - [Klik Disini](https://github.com/aninnndy/ilab-tpt/blob/main/TOPIK-1/activity/kali-tambah-kurang.c)
     - #### **tambah-kurang.c** <- Soal Jumlah Kurang hasil1 hasil2 - [Klik Disini](https://github.com/aninnndy/ilab-tpt/blob/main/TOPIK-1/activity/tambah-kurang.c)
     
-- ### **Input Output** *input-output*
+- ### **Input Output**
     - #### **enam-digit-angka.c** <- Soal Memisahkan Angka 6 Digit - [Klik Disini](https://github.com/aninnndy/ilab-tpt/blob/main/TOPIK-1/input-output/enam-digit-angka.c)
     - #### **positif-negatif.c** <- Soal Positif Negatif 786 - [Klik Disini](https://github.com/aninnndy/ilab-tpt/blob/main/TOPIK-1/input-output/positif-negatif.c)
 
